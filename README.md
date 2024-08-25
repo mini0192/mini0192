@@ -1,6 +1,5 @@
 # BACKEND DEVELOPFER
 
-## MESSENGER
 <a href="https://discordapp.com/users/485543021161742347" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="mailto:parkgw9071@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
