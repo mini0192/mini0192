@@ -3,8 +3,12 @@
 <a href="https://discordapp.com/users/485543021161742347" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="mailto:parkgw9071@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mini0192&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mini0192&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mini0192&layout=donut&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mini0192&theme=react)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mini0192&show_icons=true&theme=react)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mini0192&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## LANGUAGE & FRAMEWORK
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
