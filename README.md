@@ -4,6 +4,7 @@
 <a href="mailto:parkgw9071@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mini0192&layout=donut&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+![Programmers Badge](https://raw.githubusercontent.com/mini0192/Programmers_Badge_Generator/main/result/result.svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mini0192&theme=react)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mini0192&show_icons=true&theme=react)
