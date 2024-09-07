@@ -8,8 +8,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=mini0192&theme=react)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mini0192&show_icons=true&theme=react)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mini0192&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## LANGUAGE & FRAMEWORK
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -40,3 +38,5 @@
 ![js](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![js](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![js](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mini0192&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
