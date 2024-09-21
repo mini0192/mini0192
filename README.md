@@ -3,6 +3,8 @@
 <a href="https://discordapp.com/users/485543021161742347" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="mailto:parkgw9071@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qq0192)](https://solved.ac/백준아이디/)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mini0192&show_icons=true&theme=react&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mini0192&layout=compact&theme=react)
 
